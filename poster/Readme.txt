@@ -1,0 +1,1 @@
+Aqui deben ir las imagenes de miniatura que las peliculas tendran
